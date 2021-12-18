@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{738300A0-6F50-439D-B1E0-978BC6B5D8BD}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Массивы</RootNamespace>
-    <AssemblyName>Массивы</AssemblyName>
+    <RootNamespace>Array_1</RootNamespace>
+    <AssemblyName>Array_1</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
